@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+h3{
+    color: white;
+}
+
+#title{
+    text-align: center;
+    margin: auto;
+}
+
+#weeks{
+    text-align: center;
+}
