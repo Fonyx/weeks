@@ -1,5 +1,5 @@
 # Weeks of Life
-![Screenshot](https://github.com/Fonyx/weeks/blob/main/Assets/screenshots/screenshot.PNG>raw=true "Weeks of Life")
+![Screenshot](https://github.com/Fonyx/weeks/blob/main/Assets/screenshots/screenshot.PNG?raw=true "Weeks of Life")
 A little js exercise that shows you how many weeks you have lived based on your life expectancy
 
 data was sourced from https://ourworldindata.org/life-expectancy
